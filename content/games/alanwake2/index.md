@@ -1,6 +1,6 @@
 ---
 title: "Alan Wake II"
-date: 2025-05-09
+date: 2026-05-09
 draft: false
 cover_image: "https://images.igdb.com/igdb/image/upload/t_cover_big/co6jar.jpg"  # Optional: Paste an image URL here if you didn't use a local cover.jpg
 rating: 4.5
