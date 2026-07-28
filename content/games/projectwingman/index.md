@@ -1,6 +1,6 @@
 ---
 title: "Project Wingman"
-date: 2026-06-05
+date: 2026-07-27
 draft: false
 cover_image: "https://images.igdb.com/igdb/image/upload/t_cover_big/co76os.jpg"  # Optional: Paste an image URL here if you didn't use a local cover.jpg
 rating: 5
