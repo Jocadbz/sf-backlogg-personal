@@ -29,7 +29,7 @@ params:
        url: "https://github.com/jocadbz"
        icon: "🐙"
   
-  favorites: ["persona5", "mgs5thepanthompain", "acecombatzero", "gravityrushremastered", "acecombat7"]
+  favorites: ["persona5", "mgs5thepanthompain", "acecombatzero", "gravityrush2", "projectwingman"]
 
 pagination:
   pagerSize: 100 
